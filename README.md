@@ -20,8 +20,9 @@ To run this application, you need **Python 3.x** and the following libraries:
 2. **Colorama**: For cross-platform terminal color support.
 
 You can install them quickly using pip:
-```bash
+
 pip install Pillow colorama
+
 💻 Usage
 Launch the script: python main.py
 
