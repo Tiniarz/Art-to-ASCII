@@ -24,7 +24,7 @@ You can install them quickly using pip:
 pip install Pillow colorama
 
 ## 💻 Usage
-Launch the script: python main.py
+Launch the script: python ArtToASCII.py
 
 Provide the path to your image file (e.g., C:\Images\photo.png).
 
