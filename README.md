@@ -23,7 +23,7 @@ You can install them quickly using pip:
 
 pip install Pillow colorama
 
-💻 Usage
+## 💻 Usage
 Launch the script: python main.py
 
 Provide the path to your image file (e.g., C:\Images\photo.png).
