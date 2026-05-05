@@ -3,7 +3,7 @@
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)
 ![Made with Love](https://img.shields.io/badge/Made%20with-Love-red)
 
-**ArtToASCII** is an open-source command-line utility designed to transform images into vibrant, high-fidelity ASCII art. Using a character-by-character "human-typing" effect and 24-bit TrueColor support, it brings your pictures to life directly in the terminal.
+**ArtToASCII** is an open-source command-line utility designed to transform images into vibrant, high-fidelity ASCII art. Using a character-by-character effect and 24-bit TrueColor support, it brings your pictures to life directly in the terminal.
 
 ## 🚀 Features
 - **Universal Format Support**: Works with every image format including PNG, JPG, JPEG, WEBP, BMP, and more.
